@@ -1,0 +1,14 @@
+Package: statar
+Title: Call Stata From R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Eve", "Perry", , "eve@eveperry.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-2953-356X"))
+Description: Runs Stata code from R and passes data from R to Stata and back to R.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
